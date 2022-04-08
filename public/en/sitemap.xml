@@ -416,6 +416,16 @@
       href="https://academic-demo.netlify.app/en/admin/"
     /></url>
   <url>
+    <loc>https://academic-demo.netlify.app/en/contact/</loc><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://academic-demo.netlify.app/pt/contact/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/contact/"
+    /></url>
+  <url>
     <loc>https://academic-demo.netlify.app/en/people/</loc><xhtml:link
       rel="alternate"
       hreflang="pt"

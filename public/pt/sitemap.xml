@@ -430,6 +430,16 @@
       href="https://academic-demo.netlify.app/pt/publication/conference-paper/"
     /></url>
   <url>
+    <loc>https://academic-demo.netlify.app/pt/author/charles-souza/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/author/charles-souza/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://academic-demo.netlify.app/pt/author/charles-souza/"
+    /></url>
+  <url>
     <loc>https://academic-demo.netlify.app/pt/admin/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -440,7 +450,19 @@
       href="https://academic-demo.netlify.app/pt/admin/"
     /></url>
   <url>
+    <loc>https://academic-demo.netlify.app/pt/contact/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://academic-demo.netlify.app/en/contact/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://academic-demo.netlify.app/pt/contact/"
+    /></url>
+  <url>
     <loc>https://academic-demo.netlify.app/pt/en/admin/</loc></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/pt/en/contact/</loc></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/en/people/</loc></url>
   <url>
@@ -452,16 +474,6 @@
       rel="alternate"
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/people/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/author/charles-souza/</loc><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/author/charles-souza/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://academic-demo.netlify.app/pt/author/charles-souza/"
     /></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/en/authors/charles/</loc></url>
