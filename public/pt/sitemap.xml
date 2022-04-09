@@ -14,8 +14,6 @@
       href="https://academic-demo.netlify.app/pt/courses/example/python/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/courses/example/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -25,8 +23,6 @@
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/courses/example/visualization/"
     /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -38,8 +34,6 @@
       href="https://academic-demo.netlify.app/pt/courses/example/stats/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -48,16 +42,6 @@
       rel="alternate"
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://academic-demo.netlify.app/en/en/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://academic-demo.netlify.app/pt/en/"
     /></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
@@ -70,8 +54,6 @@
       href="https://academic-demo.netlify.app/pt/event/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -81,10 +63,6 @@
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/talk/example-talk/"
     /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -105,8 +83,6 @@
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/courses/example/"
     /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -158,8 +134,6 @@
       href="https://academic-demo.netlify.app/pt/post/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -179,8 +153,6 @@
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/author/thiago-caliari/"
     /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -222,8 +194,6 @@
       href="https://academic-demo.netlify.app/pt/category/%E6%95%99%E7%A8%8B/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/post/writing-technical-content/</loc><lastmod>2019-07-12T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/post/writing-technical-content/</loc><lastmod>2019-07-12T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -243,8 +213,6 @@
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/publication-type/3/"
     /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/publication/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/publication/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -266,8 +234,6 @@
       href="https://academic-demo.netlify.app/pt/publication_types/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/publication/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/publication/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -288,8 +254,6 @@
       href="https://academic-demo.netlify.app/pt/tag/source-themes/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/post/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/post/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -309,8 +273,6 @@
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/slides/"
     /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -341,10 +303,6 @@
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/tag/demo/"
     /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/project/external-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/project/internal-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -386,8 +344,6 @@
       href="https://academic-demo.netlify.app/pt/publication-type/2/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/publication/journal-article/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/publication/journal-article/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -417,8 +373,6 @@
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/publication-type/1/"
     /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -460,12 +414,6 @@
       href="https://academic-demo.netlify.app/pt/contact/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/admin/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/contact/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/people/</loc></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/people/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -475,10 +423,6 @@
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/people/"
     /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/authors/charles/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/author/darley-de-oliveira/</loc></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/author/darley-de-oliveira/</loc><xhtml:link
       rel="alternate"
@@ -490,8 +434,6 @@
       href="https://academic-demo.netlify.app/pt/author/darley-de-oliveira/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/authors/darley/</loc></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/author/gilberto-correa/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -501,10 +443,6 @@
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/author/gilberto-correa/"
     /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/authors/gilberto/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/author/josiane-francelino/</loc></url>
   <url>
     <loc>https://academic-demo.netlify.app/pt/author/josiane-francelino/</loc><xhtml:link
       rel="alternate"
@@ -516,8 +454,6 @@
       href="https://academic-demo.netlify.app/pt/author/josiane-francelino/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/authors/josiane/</loc></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/author/ligia-urbina/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -528,10 +464,6 @@
       href="https://academic-demo.netlify.app/pt/author/ligia-urbina/"
     /></url>
   <url>
-    <loc>https://academic-demo.netlify.app/pt/en/authors/ligia/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/authors/admin/</loc></url>
-  <url>
     <loc>https://academic-demo.netlify.app/pt/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -540,6 +472,4 @@
       rel="alternate"
       hreflang="pt"
       href="https://academic-demo.netlify.app/pt/author/%E5%90%B3%E6%81%A9%E9%81%94/"
-    /></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/pt/en/authors/oe%C2%B5uuuo/</loc></url></urlset>
+    /></url></urlset>
