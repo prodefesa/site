@@ -5,7 +5,7 @@
     <link>https://academic-demo.netlify.app/pt/</link>
       <atom:link href="https://academic-demo.netlify.app/pt/index.xml" rel="self" type="application/rss+xml" />
     <description>ProDefesa</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hu9908d69d9bb7f7dd2a76b27d933f6722_49721_512x512_fill_lanczos_center_3.png</url>
       <title>ProDefesa</title>
@@ -212,7 +212,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-287341965&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-546189372&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -222,7 +222,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-287341965&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-546189372&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
