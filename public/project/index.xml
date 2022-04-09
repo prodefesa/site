@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
+    <title>Projects | ProDefesa</title>
     <link>https://academic-demo.netlify.app/project/</link>
       <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>External Project</title>
+      <title>Projeto externo</title>
       <link>https://academic-demo.netlify.app/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/project/external-project/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Internal Project</title>
+      <title>Projeto interno</title>
       <link>https://academic-demo.netlify.app/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/project/internal-project/</guid>
